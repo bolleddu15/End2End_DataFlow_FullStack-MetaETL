@@ -9,3 +9,6 @@ This is the body text for Heading 1. You can include any relevant information, d
 
 This is the body text for Heading 2. Continue providing details or additional content in this section.
 
+## Heading 3
+
+This will be about the steps that we have gone through in this project. 
