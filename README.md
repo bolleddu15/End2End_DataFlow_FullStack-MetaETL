@@ -17,15 +17,6 @@ The project covers:
 - **Data Loading:** Storing the final processed data into MongoDB.
 - **Case Studies:** Examples to illustrate the practical use of the pipeline.
 
-## Detailed Sections
-
-### Heading 1
-
-This section provides background information and key details about the project. Use it to explain the importance or context of your work.
-
-### Heading 2
-
-Expand on technical aspects or further details in this section. You might include configuration settings, dependencies, or any additional context needed to understand the project.
 
 ### Heading 3
 
